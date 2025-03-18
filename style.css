@@ -13,7 +13,7 @@ body {
 }
 
 .calculator {
-    background-color: #fff;
+    background-color: #3D3D3D;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
@@ -42,7 +42,7 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    background-color: #f0f0f0;
+    background-color: #800000;
     transition: background-color 0.3s;
 }
 
@@ -51,8 +51,8 @@ button:hover {
 }
 
 button.operator {
-    background-color: #f77f00;
-    color: white;
+    background-color: #800000;
+    color: red;
 }
 
 button.operator:hover {
